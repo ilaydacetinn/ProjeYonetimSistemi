@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjeYonetimSistemi2/1.0.0": {
+        "runtime": {
+          "ProjeYonetimSistemi2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjeYonetimSistemi2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
